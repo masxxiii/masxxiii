@@ -14,8 +14,7 @@
   <img align="left" alt="Masood's Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
 </a>
 
-<br />
-
+<br /> <br />
 
 I'm [Masood](https://github.com/masxxiii/). 
 A polyglot, an engineer & a chap. I'm currently a backend engineer at [Crypton Studio](https://crypton.studio) in Russia.
@@ -23,7 +22,7 @@ I study and learn all things technology and convert caffeine into code.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=masxxiii.visitor-badge)
 
-<br />
+<br /> 
 
 ```javascript
 const dev = {
