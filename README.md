@@ -25,10 +25,10 @@ I study and learn all things technology and convert caffeine into code.
 <br /> 
 
 ```javascript
-const dev = {
-  pronouns: "he" | "him",
+const bio = {
+  pronouns: "He" | "Him",
   languages: [Javascript, Typescript, Swift, Java, C, C++, C#, Prolog],
-  tools: [Nodejs, React, Mongoose, Sequelize, SpriteKit, Bootstrap, EJS, NPM, CocoaPods, Docker],
+  tools: [Nodejs, React, Mongoose, Sequelize, SpriteKit, Bootstrap, Ejs, Npm, CocoaPods, Docker],
   database: ["MongoDB", "PostgreSQL", "SQLite", "Realm", "Core Data"],
   education: {
                         university: "TUSUR",
