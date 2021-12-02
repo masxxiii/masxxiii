@@ -28,7 +28,8 @@ I study and learn all things technology and convert caffeine into code.
 const bio = {
   pronouns: "He" | "Him",
   languages: [Javascript, Typescript, Swift, Java, C, C++, C#, Prolog],
-  tools: [Nodejs, React, Mongoose, Sequelize, SpriteKit, Bootstrap, Ejs, Npm, CocoaPods, Docker],
+  frameworks: [React, Web3js, Bootstrap, Vapor, SpriteKit, SceneKit],
+  tools: [Nodejs, Mongoose, Sequelize, Ejs, Npm, Yarn, CocoaPods, Docker],
   database: ["MongoDB", "PostgreSQL", "SQLite", "Realm", "Core Data"],
   education: {
                         university: "TUSUR",
