@@ -42,7 +42,6 @@ const bio = {
   },
 }
 ```
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 **languages and tools:**  
 
