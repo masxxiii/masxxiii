@@ -15,10 +15,10 @@
 </a>
 
 <br /> <br />
-
+<samp>
 I'm [Masood](https://github.com/masxxiii/). 
 A polyglot, an engineer & a chap. I'm currently a backend engineer at [Crypton Studio](https://crypton.studio) in Russia.
-I study and learn all things technology and convert caffeine into code.
+I study and learn all things technology and convert caffeine into code.</samp>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=masxxiii.visitor-badge)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
