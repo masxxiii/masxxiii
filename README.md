@@ -42,7 +42,7 @@ const bio = {
   },
 }
 ```
-![Github Stats](https://github-readme-stats.vercel.app/api?username=masxxiii&count_private=true&show_icons=true&include_all_commits=true)
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 **languages and tools:**  
 
