@@ -30,7 +30,6 @@ I study and learn all things technology and convert caffeine into code.
 
 ```javascript
 const bio = {
-  pronouns: "He" | "Him",
   languages: [Javascript, Typescript, Swift, Java, C, C++, C#, Prolog],
   frameworks: [React, Web3js, Bootstrap, Vapor, SpriteKit, SceneKit],
   tools: [Nodejs, Mongoose, Sequelize, Ejs, Npm, Yarn, CocoaPods, Docker],
