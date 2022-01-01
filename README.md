@@ -29,7 +29,7 @@ I study and learn all things technology and convert caffeine into code.
 <br /> 
 
 ```javascript
-const me: Bio = {
+const profile: Bio = {
   languages: [Javascript, Typescript, Swift, Java, C, C++, C#, Prolog],
   frameworks: [React, Web3js, Bootstrap, Vapor, SpriteKit, SceneKit, ARKit],
   tools: [Nodejs, Mongoose, Sequelize, Ejs, Npm, Yarn, CocoaPods, Docker],
