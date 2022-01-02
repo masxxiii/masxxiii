@@ -10,6 +10,9 @@
 <a href="https://t.me/masxxiii">
   <img align="left" alt="Masood's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://www.codewars.com/users/maszafar">
+  <img align="left" alt="Masood's Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+</a>
 
 
 <br /> <br />
