@@ -19,7 +19,7 @@
 <br /> <br />
 <samp>
 I'm [Masood](https://github.com/masxxiii/). 
-A polyglot, an engineer & a chap. I'm currently a junior backend engineer at [Crypton Studio](https://crypton.studio) in Russia.
+A polyglot, an engineer & a chap. I'm currently a junior backend engineer, specializing in Decentralized apps at [Crypton Studio](https://crypton.studio) in Russia.
 I study and learn all things technology and convert caffeine into code.
 </samp>
 <br />
