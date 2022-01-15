@@ -2,18 +2,7 @@
 <!-- <img align='right' src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76119d94a801fc1d5558c31f4b9fb42597695030221c&rid=giphy.gif&ct=g" width="230"> -->
 <img align='right' src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="230">
 <br />
-<a href="https://www.instagram.com/masxxiii">
-  <img align="left" alt="Masood's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="http://snapchat.com/add/maszafar">
-  <img align="left" alt="Masood's Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
-</a>
-<a href="https://t.me/masxxiii">
-  <img align="left" alt="Masood's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.codewars.com/users/maszafar">
-  <img align="left" alt="Masood's Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-</a>
+
 
 
 <br /> <br />
