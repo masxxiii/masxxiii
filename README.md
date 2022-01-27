@@ -38,7 +38,7 @@ const profile: Bio = {
   environment: [Nodejs],
   ORM_ODM: [Sequelize, Mongoose],
   tools: [Ejs, Npm, Yarn, CocoaPods, Docker],
-  database: [MongoDB, PostgreSQL, SQLite, Realm, CoreData],
+  database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
   education: {
                         university: "TUSUR",
                         degree: "Software Engineering",
