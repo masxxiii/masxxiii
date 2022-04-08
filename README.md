@@ -42,7 +42,7 @@ const profile: Bio = {
   education: {
                         university: "TUSUR",
                         degree: "Software Engineering",
-                        diploma: "Anglo-Russian translator"
+                        diploma: "English-Russian translator"
   },
 }
 ```
