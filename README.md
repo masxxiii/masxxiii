@@ -33,7 +33,7 @@ A polyglot, an engineer & a chap. I'm currently a backend engineer, specializing
 const profile: Bio = {
   languages: [Javascript, Typescript, Swift, Java, C, C++, C#, Prolog],
   frameworks: [React, Web3js, Bootstrap, Vapor, SpriteKit, SceneKit, ARKit],
-  backend: [Hapijs, Nestjs, Expressjs]
+  backend: [Hapijs, Nestjs, Expressjs],
   environment: [Nodejs],
   ORM_ODM: [Sequelize, Prisma, Mongoose],
   tools: [Ejs, Npm, Yarn, CocoaPods, Docker, RabbitMQ],
