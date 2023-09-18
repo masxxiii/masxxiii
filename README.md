@@ -23,7 +23,6 @@ A polyglot, an engineer & a chap. I'm currently a backend engineer, specializing
 <br />
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=masxxiii.visitor-badge)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
