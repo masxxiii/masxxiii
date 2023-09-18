@@ -30,17 +30,16 @@ A polyglot, an engineer & a chap. I'm currently a backend engineer, specializing
 
 ```javascript
 const profile: Bio = {
-  languages: [Javascript, Typescript, Swift, Java, C, C++, C#, Prolog],
-  frameworks: [React, Web3js, Bootstrap, Vapor, SpriteKit, SceneKit, ARKit],
-  backend: [Hapijs, Nestjs, Expressjs],
-  environment: [Nodejs],
-  ORM_ODM: [Sequelize, Prisma, Mongoose],
+  languages: [Javascript, Typescript, Go, Swift, Java, C, C++, C#, Prolog],
+  frameworks: [Web3js, Ethersjs, Vapor, React, SpriteKit, SceneKit, ARKit],
+  backend: [Nestjs, Gin, Hapijs, Fastify, Expressjs],
+  environment: [Nodejs, Bun],
+  ORM_ODM: [Sequelize, Prisma, GORM, Mongoose],
   tools: [Ejs, Npm, Yarn, CocoaPods, Docker, RabbitMQ],
   database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
   education: {
-                        university: "TUSUR",
-                        degree: "Software Engineering",
-                        diploma: "English-Russian translator"
+                        main_degree: "Software Engineering",
+                        second_degree: "English-Russian translator"
   },
 }
 ```
