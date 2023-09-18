@@ -5,19 +5,13 @@
 <a href="https://www.instagram.com/masxxiii">
   <img align="left" alt="Masood's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="http://snapchat.com/add/maszafar">
-  <img align="left" alt="Masood's Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
-</a>
 <a href="https://t.me/masxxiii">
   <img align="left" alt="Masood's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.codewars.com/users/maszafar">
-  <img align="left" alt="Masood's Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
 </a>
 
 <br /> <br />
 <samp>
-I'm [Masood](https://github.com/masxxiii/). 
+I'm [Masood](https://t.me/masxxiii). 
 A polyglot, an engineer & a chap. I'm currently a backend engineer, specializing in decentralized apps at [DYOR](https://dyor.exchange). I study and learn all things technology and convert caffeine into code.
 </samp>
 <br />
@@ -39,7 +33,7 @@ const profile: Bio = {
   database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
   education: {
                         main_degree: "Software Engineering",
-                        second_degree: "English-Russian translator"
+                        second_degree: "English-Russian Translator"
   },
 }
 ```
