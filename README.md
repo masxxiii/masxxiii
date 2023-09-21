@@ -24,7 +24,7 @@ A polyglot, an engineer & a chap. I'm currently a backend engineer, specializing
 
 ```javascript
 const profile: Bio = {
-  languages: [Javascript, Typescript, Go, Swift, Java, C, C++, C#, Prolog],
+  languages: [Javascript, Typescript, Go, Swift, C],
   frameworks: [Web3js, Ethersjs, Vapor, React, SpriteKit, SceneKit, ARKit],
   backend: [Nestjs, Gin, Hapijs, Fastify, Expressjs],
   environment: [Nodejs, Bun],
