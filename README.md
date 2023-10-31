@@ -1,4 +1,4 @@
-<h2> Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
+<h2> Hey there! <img src="assets/images/waving_hand.png" width="30px"> </h2>
 <!-- <img align='right' src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76119d94a801fc1d5558c31f4b9fb42597695030221c&rid=giphy.gif&ct=g" width="230"> -->
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="230">
 <br />
