@@ -28,8 +28,8 @@ const profile: Bio = {
   frameworks: [Web3js, Ethersjs, Vapor, React, SpriteKit, SceneKit, ARKit],
   backend: [Nestjs, Gin, Hapijs, Fastify, Expressjs],
   environment: [Nodejs, Bun],
-  ORM_ODM: [Sequelize, Prisma, GORM, Mongoose],
-  tools: [Ejs, Npm, Yarn, CocoaPods, Docker, RabbitMQ],
+  orm_odm: [Sequelize, Prisma, Gorm, Mongoose],
+  tools: [AWS, DigitalOcean, Nginx, Docker],
   database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
   education: {
                         main_degree: "Software Engineering",
