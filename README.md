@@ -24,13 +24,13 @@ A polyglot, an engineer & a chap. I'm currently the lead backend engineer, speci
 
 ```javascript
 const profile: Bio = {
-  languages: [Javascript, Typescript, Go, Swift, C, Java],
-  frameworks: [Web3js, Ethersjs, Vapor, React, SpriteKit, SceneKit, ARKit],
-  backend: [Nestjs, Gin, Hapijs, Fastify, Expressjs],
+  languages: [Typescript, Go, Swift, C, Java],
+  frameworks: [Nestjs, Gin, Hapijs, Fastify, Expressjs, Vapor],
   environment: [Nodejs, Bun],
-  orm_odm: [Sequelize, Prisma, Gorm, Mongoose],
-  tools: [AWS, DigitalOcean, Nginx, Docker],
+  orm_odm: [Prisma, Sequelize, Gorm, Mongoose],
+  cloud: [AWS, GoogleCloud, DigitalOcean, Nginx, Docker],
   database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
+  tools: [Ethersjs, Viem, React, SpriteKit, SceneKit, ARKit],
   education: {
                         major: "Software Engineering",
                         secondary_degree: "Translation Studies"
