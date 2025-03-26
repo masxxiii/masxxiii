@@ -32,8 +32,8 @@ const profile: Bio = {
   tools: [AWS, DigitalOcean, Nginx, Docker],
   database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
   education: {
-                        main_degree: "Software Engineering",
-                        second_degree: "English-Russian Translator"
+                        major: "Software Engineering",
+                        secondary_degree: "Translation Studies"
   },
 }
 ```
