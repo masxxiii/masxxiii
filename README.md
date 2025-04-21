@@ -11,7 +11,7 @@
 
 <br /> <br />
 <samp>
-I'm [Masood](https://t.me/masxxiii). 
+I'm [Masood](https://masoodbuilds.com). 
 A polyglot, an engineer & a chap. I'm currently the lead backend engineer, specializing in decentralized apps at [DYOR](https://dyor.exchange). I study and learn all things technology and convert caffeine into code.
 </samp>
 <br />
