@@ -29,7 +29,7 @@ A polyglot, an engineer & a curious chap. I'm currently the lead backend enginee
 ```javascript
 const profile: Bio = {
   languages: [Typescript, Go, Swift, C, Java],
-  frameworks: [Nestjs, Gin, Hapijs, Fastify, Expressjs, Vapor],
+  frameworks: [Nestjs, Gin, Hapijs, Fastify, Expressjs, Astro, Vapor],
   environment: [Nodejs, Bun],
   orm_odm: [Prisma, Sequelize, Gorm, Mongoose],
   cloud: [AWS, GoogleCloud, DigitalOcean, Nginx, Docker],
