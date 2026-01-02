@@ -30,11 +30,10 @@ A polyglot, an engineer & a chap. I'm currently the lead backend engineer, speci
 const profile: Bio = {
   languages: [Typescript, Go, Swift, C, Java],
   frameworks: [Nestjs, Gin, Hapijs, Fastify, Expressjs, Astro, Vapor],
-  environment: [Nodejs, Bun],
+  environment: [Nodejs, Bun, JRE],
   orm_odm: [Prisma, Sequelize, Gorm, Mongoose],
   cloud: [AWS, GoogleCloud, DigitalOcean, Nginx, Docker],
-  database: [PostgreSQL, MongoDB, SQLite, Realm, CoreData],
-  tools: [Ethersjs, Viem, React, SpriteKit, SceneKit, ARKit],
+  database: [PostgreSQL, MongoDB, ClickHouse, SQLite, Realm, CoreData],
   education: {
                         major: "Software Engineering",
                         secondary_degree: "Translation Studies"
