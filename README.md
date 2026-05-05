@@ -16,7 +16,7 @@
 <br /> <br />
 <samp>
 I'm [Masood](https://masoodbuilds.com). 
-A polyglot, an engineer & a chap. I'm currently the lead backend engineer, specializing in decentralized apps at [BLACKWHITE](https://bwrd.io). I study and learn all things technology and convert caffeine into code.
+A polyglot, an engineer & a chap. I study and learn all things technology and convert caffeine into code.
 </samp>
 <br />
 
